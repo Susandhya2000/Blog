@@ -14,6 +14,8 @@ Technical Specifications:
 
 * Database: MongoDB
 
+* IDE: VS Code
+
 Detailed Features:
 
 * API Endpoints: CRUD operations for blog posts.
